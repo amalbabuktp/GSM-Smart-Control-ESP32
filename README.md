@@ -33,8 +33,8 @@ Sensor data is continuously monitored for overload and vibration faults.
 If abnormal conditions are detected, the motor is automatically shut down and SMS alerts are sent.
 
 ## Author
-Amal Babu K
-Shanif S
-Abel Joshua Rajesh
+Amal Babu K |
+Shanif S |
+Abel Joshua Rajesh |
 Arun Kumar K
 
