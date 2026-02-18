@@ -34,4 +34,7 @@ If abnormal conditions are detected, the motor is automatically shut down and SM
 
 ## Author
 Amal Babu K
+Shanif S
+Abel Joshua Rajesh
+Arun Kumar K
 
